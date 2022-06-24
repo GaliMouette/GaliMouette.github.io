@@ -84,9 +84,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Writings # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Here I blog about my discoveries.
+blog_name:  # blog_name will be displayed in your blog page
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
+blog_description: Here I write about what I think is interesting.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -203,8 +203,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: CARRÉ
-  first_name: [Alexis, B.]
+  last_name: Carré
+  first_name: [Alexis, A.]
 
   style: apa
   locale: en
